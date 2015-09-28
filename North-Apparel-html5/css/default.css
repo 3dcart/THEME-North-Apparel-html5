@@ -48,6 +48,19 @@ button {
 	color: #FFF;
 	background: #22303a;
 }
+.social-icons a.youtube{
+	color:red !important;
+}
+.social-icons a.instagram {
+    color: #76351F;
+}
+.social-icons a.tumblr,
+.social-icons a.blog{
+	color:#00acee;
+}
+.social-icons a:hover{
+	color:#333 !important;
+}
 blockquote {
 	color: #000;
 	font-size: 30px;
